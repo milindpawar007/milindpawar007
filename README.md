@@ -1,16 +1,15 @@
-### Hi there 👋
+Hi, I'm Milind  👋
 
-<!--
-**milindpawar007/milindpawar007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm Milind Pawar from India, currently living in Baltimore. I'm a second year graduate student studying master's degree in Information System  at University of Maryland Baltimore County.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Technologies
+Talk to me about
+
+Front-end development using HTML, Javascript,CSS,Bootstrap
+Backend development using React,C#,Python
+Making for Relational Database Management Systems
+Mobile application development using Android and Java
+Creating scalable cloud architecture using AWS Cloud
+Solving Data structure and algorithm questions in Java and Python
+
