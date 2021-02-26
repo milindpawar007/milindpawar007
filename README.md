@@ -1,8 +1,7 @@
 Hi, I'm Milind  👋
 <h5>
 I'm Milind Pawar from India, currently living in Baltimore. I'm a second year graduate student studying master's degree in Information System  at University of Maryland Baltimore County.
-</h5>
-<br>
+</h5><br>
 <h5>⚡ Technologies/<h5>
 <ui>
 <li>Talk to me about</li>
