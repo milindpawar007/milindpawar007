@@ -1,5 +1,5 @@
 <h6>
-I'm Milind Pawar from India 👋, currently living in Baltimore. I'm a second year graduate student studying master's degree in Information System  at University of Maryland Baltimore County.
+I'm Milind Pawar from India 👋, currently living in Baltimore. I'm a second year graduate student studying master's degree in Information System at University of Maryland Baltimore County.
 </h6>
 <h5>⚡ Technologies/<h5>
 <ui>
