@@ -42,7 +42,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=milind&theme=radical" alt="milind streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=milindpawar007&theme=radical" alt="milind streak" />
 </p>
 
 ---
